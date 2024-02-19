@@ -1,5 +1,5 @@
 ### Oii! Eu sou a Flavia Rosa
 
-- 💼 Hoje trabalho na empresa Adapte Educação
+- 💼 Full-Stack
 - 💻 Estudando as tecnologias TypeScript e Next.js
 - 💙 Neurodivergente -> TEA
