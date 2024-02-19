@@ -1,4 +1,4 @@
-### Oii! Eu sou a Flavia Rosa
+### Oii, eu sou a Flavia!
 
 - 💻 Full-Stack
 - 📚 Estudando TypeScript e Next.js
